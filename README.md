@@ -25,4 +25,4 @@ I'm a current fullstack developer on Nest.js and Next.js ; I have an analytics b
 <a href="https://mobx.js.org/README.html" target="_blank" rel="noreferrer"><img src="https://mobx.js.org/img/mobx.png" width="36" height="36" alt="MobX" /></a>
 </p>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nickolayArbuzov&show_icons=true&bg_color=DEG,5b5b5b,cd9b00&title_color=c9c8c8&text_color=ececec&border_radius=20&border_color=c9c8c8&icon_color=c9c8c8&hide=contribs,prs)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nickolayArbuzov&show_icons=true&bg_color=DEG,393939,c99500&title_color=c9c8c8&text_color=ececec&border_radius=20&border_color=c9c8c8&icon_color=c9c8c8&hide=contribs,prs)
