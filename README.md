@@ -1,4 +1,4 @@
-Hi 👋 My name is Nickolay
+### Hi 👋 My name is Nickolay
 
 ![My Codewars](https://www.codewars.com/users/ArbuzovNick/badges/large)
 
@@ -18,3 +18,5 @@ Hi 👋 My name is Nickolay
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" width="36" height="36" alt="NextJS" /></a>
 <a href="https://mobx.js.org/README.html" target="_blank" rel="noreferrer"><img src="https://mobx.js.org/img/mobx.png" width="36" height="36" alt="MobX" /></a>
 </p>
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nickolayArbuzov&show_icons=true&bg_color=DEG,5b5b5b,cd9b00&title_color=c9c8c8&text_color=ececec&border_radius=20&border_color=c9c8c8&icon_color=c9c8c8&hide=contribs,prs)
