@@ -4,7 +4,7 @@ Hi 👋 My name is Nickolay
 Node.js backend developer
 -------------------------
 
-I'm a current fullstack developer on Nest.js and Next.js ; I have an analytics background, I also worked with VBA and Python
+I'm a current fullstack developer on Nest.js and Next.js ; Also I have an analytics background and worked with VBA and Python
 
 ![My Codewars](https://www.codewars.com/users/ArbuzovNick/badges/large)
 
