@@ -1,7 +1,7 @@
 Hi 👋 My name is Nickolay
 =========================
 
-Node.js backend developer
+Python backend developer
 -------------------------
 
 I'm a current backend developer on Python ; Also I have an analytics background and worked with VBA and Node.js, and also frontend background (React)
