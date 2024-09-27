@@ -4,7 +4,7 @@ Hi 👋 My name is Nickolay
 Python backend developer
 -------------------------
 
-I'm a current backend developer on Python ; Also I have an analytics background and worked with VBA and Node.js, and also frontend background (React)
+I'm a current backend developer on Python ; Also I have an analytics background with VBA/SQL and Node.js/Nest.js, and also frontend background (React/Angular)
 
 ![My Codewars](https://www.codewars.com/users/ArbuzovNick/badges/large)
 
